@@ -5,8 +5,8 @@
 import os
 
 # ---- LLM 配置 ----
-LLM_URL = "https://api.edgefn.net/v1/chat/completions"
-LLM_API_KEY = "sk-G4uDrXf0K6ScC7D27370C2B080Db4f94Be5122D91817507c"
+LLM_URL = ""
+LLM_API_KEY = ""
 LLM_MODEL = "DeepSeek-V4-Pro"
 LLM_TIMEOUT = 60
 
