@@ -1,4 +1,4 @@
 experiments/
 __pycache__/
 *.pyc
-*.md
+# *.md
